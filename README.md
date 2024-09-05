@@ -1,2 +1,2 @@
-# tabcustomizer
-simple dimple tab customizer
+# Tab Customizer
+An open-source simple way to style your tabs.
